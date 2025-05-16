@@ -2,13 +2,6 @@ package homework1;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
-Program description:A date format converter
-Author:Atilla Uğur 220401080
-E-mail address:atillaugur35@outlook.com
-Homework Number:Homework part 3
-*/
-
 public class DateFormatConverter {
     // tried a function for JPANEL using JFrame
     static String JPanelDateInput()
